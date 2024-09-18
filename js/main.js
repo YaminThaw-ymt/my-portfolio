@@ -10702,7 +10702,7 @@
                             children: [
                               (0, a.jsx)("span", {
                                 className: "featuretitle",
-                                children: "Featured - Design & Functions",
+                                children: "",
                               }),
                               (0, a.jsx)("h1", { children: t.title }),
                               (0, a.jsx)("strong", {
