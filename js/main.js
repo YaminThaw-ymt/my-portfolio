@@ -9718,9 +9718,9 @@
           var i = new FormData(l);
           return (
             i.append("lib_version", "3.10.0"),
-            i.append("service_dx83ij8", e),
+            i.append("service_fv4muje", e),
             i.append("template_8g4gq7r", t),
-            i.append("tg15Pgn5izEAhO_G_", a),
+            i.append("v1LZMsf_N7RMlMibw", a),
             g("/api/v1.0/email/send-form", i)
           );
         },
@@ -9772,7 +9772,7 @@
                                 (0, a.jsx)("h1", { children: "Yamin Thaw" }),
                                 (0, a.jsx)("p", {
                                   className: "fullcol",
-                                  children: '" Web Developer "',
+                                  children: '" Frontend Developer "',
                                 }),
                                 (0, a.jsx)("p", {
                                   children:
@@ -9871,7 +9871,7 @@
                                 ? alert("please fill all data")
                                 : (v(
                                     "gmail",
-                                    "template_j3bpm6u",
+                                    "template_8g4gq7r",
                                     t.current,
                                     "X2g6jwrEyUhbIzoQW"
                                   ).then(
@@ -10420,7 +10420,7 @@
             children: (0, a.jsx)("footer", {
               children: (0, a.jsx)("div", {
                 className: "conatiner text-center top",
-                children: (0, a.jsx)("p", { children: "\xa9 2024.Yamin Thaw" }),
+                children: (0, a.jsx)("p", { children: "\xa9 2026.Yamin Thaw" }),
               }),
             }),
           });
@@ -10538,25 +10538,6 @@
                           (0, a.jsx)("span", { children: "Yamin Thaw" }),
                         ],
                       }),
-                      (0, a.jsxs)("h2", {
-                        children: [
-                          "a",
-                          (0, a.jsx)("span", {
-                            children: (0, a.jsx)(j.rf, {
-                              words: [
-                                " Professional Coder.",
-                                " Web Developer.",
-                              ],
-                              loop: !0,
-                              cursor: !0,
-                              cursorStyle: "|",
-                              typeSpeed: 70,
-                              deleteSpeed: 70,
-                              delaySpeed: 1e3,
-                            }),
-                          }),
-                        ],
-                      }),
                       (0, a.jsxs)("p", {
                         className: "aboutme-text",
                         children: [
@@ -10566,7 +10547,7 @@
                       (0, a.jsx)("div", {
                         className: "downloadcv",
                         children: (0, a.jsx)("a", {
-                          href: "https://drive.google.com/file/d/1kpsLZgzeKBnUSQ8ArWcHp5GcLoK_8Moy/view",
+                          href: "https://drive.google.com/file/d/13N0gysRUvsU8-_pYzLIJW7JOPleEE-J3/view",
                           target: "_blank",
                           download: !0,
                           children: (0, a.jsx)("div", {
@@ -10741,7 +10722,6 @@
                               (0, a.jsx)("br", {}),
                               (0, a.jsx)("div", {
                                 children:
-                                  t.languagetitle &&
                                   (0, a.jsxs)("ul", {
                                     children: [
                                       (0, a.jsx)("p", {
@@ -10799,11 +10779,66 @@
           {
             id: 1,
             category: "WEBSITE",
+            title: "Onegravity",
+            image: "../images/projects/onegravity.png",
+            projectlink: "https://onegravity.jp/",
+            desc: " ",
+            language: [
+              {
+                data: "Created by using Smarty template file for PHP",
+              },
+              { data: "https://onegravity.jp/" },
+            ],
+          },
+          {
+            id: 2,
+            category: "WEBSITE",
+            title: "THIRD MAGAZINE mikomori",
+            image: "../images/projects/mikomori.jpg",
+            projectlink: "https://www.thirdmagazine.jp/special/24AW_mikomori",
+            desc: " ",
+            language: [
+              {
+                data: "Created by using Smarty template file for PHP",
+              },
+              { data: "https://www.thirdmagazine.jp/special/24AW_mikomori" },
+            ],
+          },
+          {
+            id: 3,
+            category: "WEBSITE",
+            title: "THIRD MAGAZINE 24AW COLLECTION VOL1",
+            image: "../images/projects/collection.jpg",
+            projectlink: "https://www.thirdmagazine.jp/special/24AW_collection_vol1",
+            desc: " ",
+            language: [
+              {
+                data: "Created by using Smarty template file for PHP",
+              },
+              { data: "https://www.thirdmagazine.jp/special/24AW_collection_vol1" },
+            ],
+          },
+          {
+            id: 3,
+            category: "WEBSITE",
+            title: "SOMATO",
+            image: "../images/projects/somato.jpg",
+            projectlink: "https://somatosake.com/",
+            desc: " ",
+            language: [
+              {
+                data: "Created by using Liquid<",
+              },
+              { data: "https://somatosake.com/" },
+            ],
+          },
+          {
+            id: 4,
+            category: "WEBSITE",
             title: "Hakkochoju-nagano",
             image: "../images/projects/hakko.png",
             projectlink: "https://www.hakkochoju-nagano.jp",
             desc: " ",
-            languagetitle: "Language and Environments",
             language: [
               {
                 data: "Created by using HTML, CSS, Javascript, JQuery, PHP, Wordpress",
@@ -10812,7 +10847,7 @@
             ],
           },
           {
-            id: 2,
+            id: 5,
             category: "WEBSITE",
             title: "Chienowa-net ",
             image: "../images/projects/chienowa.png",
@@ -10827,7 +10862,7 @@
             ],
           },
           {
-            id: 3,
+            id: 6,
             category: "WEBSITE",
             title: "Rescueweb",
             image: "../images/projects/rescue.png",
@@ -10840,7 +10875,7 @@
             ],
           },
           {
-            id: 4,
+            id: 7,
             category: "Website",
             desc: "",
             projectlink: "https://momokids-koushien.com/",
@@ -10855,7 +10890,7 @@
             image: "../images/projects/momokid.png",
           },
           {
-            id: 5,
+            id: 8,
             category: "Website",
             title: "madoa",
             desc: "",
@@ -10868,7 +10903,7 @@
             image: "../images/projects/madoa.png",
           },
           {
-            id: 6,
+            id: 9,
             category: "Website",
             desc: "",
             projectlink: "http://sting-design.co.jp/",
@@ -10883,7 +10918,7 @@
             image: "../images/projects/sting.png",
           },
           {
-            id: 7,
+            id: 10,
             category: "Website",
             desc: "",
             projectlink: "https://lapis375.com/",
@@ -10898,7 +10933,7 @@
             image: "../images/projects/lapis.png",
           },
           {
-            id: 8,
+            id: 11,
             category: "WEBSITE",
             desc: "",
             projectlink: "https://www.shu-luck.jp/",
@@ -10911,7 +10946,7 @@
             image: "../images/projects/shu_luck.png",
           },
           {
-            id: 9,
+            id: 12,
             category: "WEBSITE",
             desc: "",
             projectlink: "https://infinil.com/",
@@ -10924,7 +10959,7 @@
             image: "../images/projects/infinil.png",
           },
           {
-            id: 10,
+            id: 13,
             category: "Website",
             desc: "",
             projectlink: "http://yume-factory.net/",
@@ -10937,7 +10972,7 @@
             image: "../images/projects/yume_factory.png",
           },
           {
-            id: 11,
+            id: 14,
             category: "Website",
             desc: "",
             projectlink: "https://alighthouse.jp/",
@@ -10972,7 +11007,7 @@
                     className: "content portgrid",
                     children: C.map(function (e, t) {
                       return (0,
-                      a.jsx)(E, { image: e.image, category: e.category, title: e.title, desc: e.desc && e.desc, fronttitle: e.fronttitle && e.fronttitle, frontend: e.frontend && e.frontend, backtitle: e.backtitle && e.backtitle, backend: e.backend && e.backend, languagetitle: e.languagetitle && e.languagetitle, language: e.language && e.language, projectlink: e.projectlink && e.projectlink }, t);
+                      a.jsx)(E, { image: e.image, category: e.category, title: e.title, desc: e.desc && e.desc, fronttitle: e.fronttitle && e.fronttitle, frontend: e.frontend && e.frontend, backtitle: e.backtitle && e.backtitle, backend: e.backend && e.backend, language: e.language && e.language, projectlink: e.projectlink && e.projectlink }, t);
                     }),
                   }),
                 ],
@@ -10994,15 +11029,14 @@
         );
       }
       var P = [
-          {
+         {
             id: 1,
             category: "education",
-            year: "Sea Dream Myanmar Co.,Ltd | in Myanmar (November 2016 \u2013 April 2018)",
-            title: "Senior Web Developer ",
+            year: "Fignny Co.,Ltd (May 2024 \u2013 current)",
+            title: "Frontend Developer",
             desc: [
-              { data: "Design the WebSite with html, css and responsive." },
-              { data: "Wordpress with Web Design." },
-              { data: "Use Photoshop for website image." },
+              { data: "Implement EC site, Company Website, Shopify, NextJs" },
+              { data: "Use Figma for website design." },
             ],
           },
           {
@@ -11027,10 +11061,96 @@
             ],
           },
           {
+            id: 3,
+            category: "education",
+            year: "Sea Dream Myanmar Co.,Ltd | in Myanmar (November 2016 \u2013 April 2018)",
+            title: "Senior Web Developer ",
+            desc: [
+              { data: "Design the WebSite with html, css and responsive." },
+              { data: "Wordpress with Web Design." },
+              { data: "Use Photoshop for website image." },
+            ],
+          },
+          {
             id: 4,
             category: "project",
+            year: "PHP ",
+            title: "THIRD MAGAZINE mikomori",
+            linkdata: "https://www.thirdmagazine.jp/special/24AW_mikomori",
+            desc: [
+              {
+                data: "Created by using Smarty template file for PHP",
+              },
+              {
+                data: "Testing the project, optimize the code to get best performance",
+              },
+            ],
+          },
+          {
+            id: 5,
+            category: "project",
+            year: "PHP ",
+            title: "THIRD MAGAZINE 24AW COLLECTION VOL1",
+            linkdata: "https://www.thirdmagazine.jp/special/24AW_collection_vol1",
+            desc: [
+              {
+                data: "Created by using Smarty template file for PHP",
+              },
+              {
+                data: "Testing the project, optimize the code to get best performance",
+              },
+            ],
+          },
+          {
+            id: 6,
+            category: "project",
+            year: "Shopify ",
+            title: "Somato",
+            linkdata: "https://somatosake.com/",
+            desc: [
+              {
+                data: "Created by using Liquid",
+              },
+              {
+                data: "Testing the project, optimize the code to get best performance",
+              },
+            ],
+          },
+          {
+            id: 7,
+            category: "project",
+            year: "PHP ",
+            title: "Onegravity",
+            linkdata: "https://onegravity.jp/",
+            desc: [
+              {
+                data: "Created by using Smarty template file for PHP",
+              },
+              {
+                data: "Testing the project, optimize the code to get best performance",
+              },
+            ],
+          },
+          {
+            id: 8,
+            category: "project",
+            year: "NextJs ",
+            title: "Fignny",
+            linkdata: "https://www.fignny.co.jp/",
+            desc: [
+              {
+                data: "Implement and using nextjs library.",
+              },
+              {
+                data: "Testing the project, optimize the code to get best performance",
+              },
+            ],
+          },
+          {
+            id: 8,
+            category: "project",
             year: "Angular",
-            title: " 1. Rescue Web ",
+            title: "Rescue Web ",
             linkdata: "https://www.rescuenow.co.jp/",
             desc: [
               {
@@ -11039,10 +11159,10 @@
             ],
           },
           {
-            id: 5,
+            id: 9,
             category: "project",
             year: "Wordpress ",
-            title: "2. Chienowa",
+            title: "Chienowa",
             linkdata: "https://chienowa-net.com/",
             desc: [
               {
@@ -11054,10 +11174,10 @@
             ],
           },
           ((m = {
-            id: 6,
+            id: 10,
             category: "project",
             year: "Wordpress ",
-            title: "3. Momokid",
+            title: "Momokid",
             linkdata: "https://momokids-koushien.com/",
             desc: [
               {
@@ -11078,10 +11198,10 @@
           T(m, "rate", "Web Development "),
           m),
           {
-            id: 7,
+            id: 11,
             category: "project",
             year: "Wordpress ",
-            title: " 4. Hakkochoju-nagano",
+            title: "Hakkochoju-nagano",
             linkdata: "https://www.hakkochoju-nagano.jp/",
             desc: [
               {
@@ -11288,12 +11408,24 @@
             title: "Taiwindcss",
             skill: "intermediate",
           },
+          {
+            id: 12,
+            image: "../images/skillfile/nextjs.svg",
+            title: "Next.js",
+            skill: "intermediate",
+          },
+          {
+            id: 13,
+            image: "../images/skillfile/php.svg",
+            title: "PHP",
+            skill: "intermediate",
+          },
         ],
         R = [
           {
             id: 1,
             image: "../images/skillfile/mysql.svg",
-            title: "Mysql.js",
+            title: "Mysql",
             skill: "intermediate",
           },
         ],

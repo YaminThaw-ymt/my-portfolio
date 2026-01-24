@@ -1150,6 +1150,7 @@ header ul li a:hover {
 .Resume .content {
     margin: auto;
     max-width: 85%;
+    padding: 0 10px;
 }
 
 .Resume .box {
@@ -1187,7 +1188,7 @@ header ul li a:hover {
 
 .Resume .box:hover .btn_shadow,
 .linksite {
-    background: #ff3874;
+    /* background: #ff3874; */
     box-shadow: none;
     color: #fff;
 }
@@ -1203,8 +1204,8 @@ header ul li a:hover {
 
 .Resume .left:after {
     height: 100%;
-    left: 0;
-    top: 11%;
+    left: 12px;
+    top: 5%;
     width: 5px;
     z-index: -2;
 }
