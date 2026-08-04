@@ -10547,7 +10547,7 @@
                       (0, a.jsx)("div", {
                         className: "downloadcv",
                         children: (0, a.jsx)("a", {
-                          href: "https://drive.google.com/file/d/13N0gysRUvsU8-_pYzLIJW7JOPleEE-J3/view",
+                          href: "https://drive.google.com/file/d/14QJTYWb23UVmaN7k3-_3z6xbWWSpvnld/view",
                           target: "_blank",
                           download: !0,
                           children: (0, a.jsx)("div", {
